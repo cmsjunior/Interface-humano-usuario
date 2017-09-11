@@ -18,4 +18,5 @@ Podemos destacar, que o software não irá apenas servir para crianças em fase 
 **Motivação**
 
 Acreditamos que todos precisam aprender e ter a oportunidade para aprender, sem os conhecimentos básicos da comunicação, que é a base do aprendizado, toda a estrutura pode vir abaixo. Também não podemos nos esquecer que encontraremos pessoas com necessidades especiais e, quando encontrarmos, precisamos estar aptos a nos comunicar efetivamente, nada melhor do que aprender libras logo no começo de nossa fase de ensino.
-Organização??
+
+**Organização??**
